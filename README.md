@@ -1,0 +1,2 @@
+# digColl_WinnipegJewishRenOralHist
+The collection is an initial set of audio recordings of interviews from the oral history project conducted by Dr. Jaron Justin Lewis at the University of Winnipeg titled “Rabbi Zalman Schachter’s Years in Winnipeg.” The interviews are with people who knew and worked with Schachter-Shalomi in his early years and document a unique history. DOI: https://doi.org/10.25810/aw3h-k767
