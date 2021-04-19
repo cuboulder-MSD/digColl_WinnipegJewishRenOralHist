@@ -12,7 +12,7 @@ Lewis, Justin Jaron, 1961-
 ## Subject
 Jewish renewal; Schachter-Shalomi, Zalman, 1924-2014
 ## Description
-Descriptions consist of timestamped intervals indicating topic changes and when they occur. 
+Each description consists of timestamped intervals indicating topic changes and when they occur. 
 ## Publisher
 University of Colorado Boulder Archives Department
 ## Contributor
@@ -30,6 +30,6 @@ Rabbi Zalman Schachter's Years in Winnipeg
 ## Language
 English
 ## Coverage
-Coverage is a controlled term from Getty Thesaurus of Geographic Names and states where the interview was conducted.
+Coverage is a controlled term from the Getty Thesaurus of Geographic Names and states where the interview was conducted.
 ## Rights
 This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). URI: http://rightsstatements.org/vocab/InC/1.0/
