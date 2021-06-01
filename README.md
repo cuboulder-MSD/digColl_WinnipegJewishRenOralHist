@@ -1,8 +1,8 @@
 # Winnipeg Jewish Renewal Oral History Collection
-The collection is an initial set of audio recordings of interviews from the oral history project conducted by Dr. Jaron Justin Lewis at the University of Winnipeg titled “Rabbi Zalman Schachter’s Years in Winnipeg.” The interviews are with people who knew and worked with Schachter-Shalomi in his early years while living in Winnipeg and document a unique history. DOI: https://doi.org/10.25810/aw3h-k767
+The collection is an initial set of audio recordings of interviews from the oral history project conducted by Dr. Jaron Justin Lewis at the University of Winnipeg titled “Rabbi Zalman Schachter’s Years in Winnipeg.” The interviews are with people who knew and worked with Schachter-Shalomi in his early years while living in Winnipeg and document a unique history. 
 
+Link to digital collection [here](https://doi.org/10.25810/aw3h-k767)
 ## Metadata
-
 ### Collection Name
 Winnipeg Jewish Renewal Oral History Collection
 ### Title
