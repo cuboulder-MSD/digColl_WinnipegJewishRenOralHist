@@ -32,4 +32,6 @@ English
 ### Coverage
 Coverage is a controlled term from the Getty Thesaurus of Geographic Names and states where the interview was conducted. Most common place is [Winnipeg](http://vocab.getty.edu/tgn/70131430
 ### Rights
-This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). URI: http://rightsstatements.org/vocab/InC/1.0/
+This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). 
+
+Access Condition comes from [rightsstatment.org](http://rightsstatements.org/vocab/InC/1.0/)
