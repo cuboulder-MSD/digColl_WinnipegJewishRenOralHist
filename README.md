@@ -10,7 +10,7 @@ Title field states who the interviewee is and the date the interview took place.
 ### Creator
 Lewis, Justin Jaron, 1961-
 ### Subject
-Jewish renewal; Schachter-Shalomi, Zalman, 1924-2014
+Common subject headings include: [Jewish renewal](http://id.loc.gov/authorities/subjects/sh00002655) and [Schachter-Shalomi, Zalman, 1924-2014](http://id.worldcat.org/fast/102574)
 ### Description
 Each description consists of timestamped intervals indicating topic changes and when they occur. 
 ### Publisher
@@ -30,6 +30,6 @@ Rabbi Zalman Schachter's Years in Winnipeg
 ### Language
 English
 ### Coverage
-Coverage is a controlled term from the Getty Thesaurus of Geographic Names and states where the interview was conducted.
+Coverage is a controlled term from the Getty Thesaurus of Geographic Names and states where the interview was conducted. Most common place is [Winnipeg](http://vocab.getty.edu/tgn/70131430
 ### Rights
 This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). URI: http://rightsstatements.org/vocab/InC/1.0/
